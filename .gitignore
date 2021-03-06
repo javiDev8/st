@@ -1,0 +1,6 @@
+*.orig
+*.o
+*.diff
+*.rej
+*.def.*
+st
